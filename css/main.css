@@ -1586,9 +1586,9 @@
 /* Type */
 
   body, input, select, textarea {
-    color: #5a5a5a;
+    color: #1c1c1c;
     font-family: "Raleway", Arial, Helvetica, sans-serif;
-    font-size: 13pt;
+    font-size: 15pt;
     font-weight: 300;
     line-height: 1.65;
   }
